@@ -24,7 +24,7 @@ import android.widget.TextView;
  * 
  * @author AkýllýYazýlým
  * @date 15.03.2014
- * @about 2GSA
+ * @about 2 Günde Þirket-i Alem
  */
 
 public class MainActivity extends ActionBarActivity implements
